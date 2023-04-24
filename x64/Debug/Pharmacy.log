@@ -1,0 +1,12 @@
+﻿  Add_E.cpp
+  Add_PH.cpp
+  Add_PR.cpp
+  Add_PRO.cpp
+  Employees.cpp
+  MyForm.cpp
+  Pharmacy.cpp
+  Preparation.cpp
+  Producer.cpp
+  Создание кода...
+  About_Creator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Pharmacy.vcxproj -> D:\Pharmacy\Pharmacy\project\x64\Debug\Pharmacy.exe

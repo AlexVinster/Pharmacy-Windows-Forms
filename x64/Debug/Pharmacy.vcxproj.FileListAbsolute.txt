@@ -1,0 +1,83 @@
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.vcxprojAssemblyReference.cache
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.MyForm.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.GenerateResource.cache
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.CopyComplete
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Add_PH.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Add_PR.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Employees.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Pharmacy.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Add_E.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Add_PRO.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Producer.resources
+D:\КЕП\4 курс\курсова ООП\Фармацевтика\Фармацевтика\project\Pharmacy\x64\Debug\Pharmacy.Preparation.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.vcxprojAssemblyReference.cache
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_PH.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_PR.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_SP.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Employees.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Pharmacy.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_E.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.MyForm.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_PRO.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Producer.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Preparation.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Supplied_Preparation.resources
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.GenerateResource.cache
+D:\КЕП\4 курс\курсова ООП\Аптека\Аптека\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.CopyComplete
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.AssemblyReference.cache
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_PH.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_PR.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_SP.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Employees.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Pharmacy.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_E.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.MyForm.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Add_PRO.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Producer.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Preparation.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.Supplied_Preparation.resources
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.GenerateResource.cache
+C:\Users\Liulchak\Desktop\Аптека(ред)\Аптека\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.CopyComplete
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.AssemblyReference.cache
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PH.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PR.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_SP.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Employees.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Pharmacy.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_E.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.MyForm.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PRO.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Producer.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Preparation.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Supplied_Preparation.resources
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.GenerateResource.cache
+C:\Users\Liulchak\Desktop\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.CopyComplete
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.AssemblyReference.cache
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PH.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PR.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_SP.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Employees.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Pharmacy.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_E.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.MyForm.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PRO.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Producer.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Preparation.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Supplied_Preparation.resources
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.GenerateResource.cache
+D:\Pharmacy(red)\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.CopyComplete
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.About_Creator.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PH.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PR.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_SP.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Employees.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Pharmacy.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_E.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.MyForm.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Add_PRO.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Producer.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Preparation.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.Supplied_Preparation.resources
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.GenerateResource.cache
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.CopyComplete
+D:\Pharmacy\Pharmacy\project\Pharmacy\x64\Debug\Pharmacy.vcxproj.AssemblyReference.cache
